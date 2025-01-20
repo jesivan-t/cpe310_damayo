@@ -1,2 +1,2 @@
 # cpe310_damayo
-cpe310 repository
+I am Jes Ivan T. Damayo, a sophomore student taking BS in Industrial Engineering.
